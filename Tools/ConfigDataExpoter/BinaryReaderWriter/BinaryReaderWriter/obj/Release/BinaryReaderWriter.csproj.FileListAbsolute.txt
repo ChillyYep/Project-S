@@ -1,0 +1,6 @@
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\bin\Release\BinaryReaderWriter.pdb
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.csproj.AssemblyReference.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Release\BinaryReaderWriter.pdb

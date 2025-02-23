@@ -1,0 +1,119 @@
+[
+  {
+    "id": 0,
+    "name": "Jack",
+    "ratio": [
+      1.111
+    ],
+    "color": [
+      0,
+      2
+    ],
+    "nesttt": [
+      {
+        "id": 0,
+        "name": "jksjda"
+      },
+      {
+        "id": 2,
+        "name": "hola"
+      }
+    ],
+    "flags": [
+      true,
+      true,
+      false
+    ],
+    "color2": [],
+    "comment": [
+      "ConfigPP-0-comment-0--0",
+      "ConfigPP-0-comment-1--0"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Mack",
+    "ratio": [
+      1.212
+    ],
+    "color": [
+      2,
+      3
+    ],
+    "nesttt": [
+      {
+        "id": 0,
+        "name": "jksjda"
+      },
+      {
+        "id": 2,
+        "name": "hola"
+      }
+    ],
+    "flags": [
+      true
+    ],
+    "color2": [],
+    "comment": [
+      "ConfigPP-1-comment-0--0",
+      "ConfigPP-1-comment-1--0"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ruby",
+    "ratio": [
+      2.158
+    ],
+    "color": [
+      3,
+      2
+    ],
+    "nesttt": [
+      {
+        "id": 0,
+        "name": "jksjda"
+      },
+      {
+        "id": 2,
+        "name": "hola"
+      }
+    ],
+    "flags": [
+      false
+    ],
+    "color2": [],
+    "comment": [
+      "ConfigPP-2-comment-0--0"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hola",
+    "ratio": [
+      248.0
+    ],
+    "color": [
+      1,
+      1
+    ],
+    "nesttt": [
+      {
+        "id": 0,
+        "name": "jksjda"
+      },
+      {
+        "id": 2,
+        "name": "hola"
+      }
+    ],
+    "flags": [
+      true,
+      false
+    ],
+    "color2": [],
+    "comment": [
+      "ConfigPP-3-comment-0--0"
+    ]
+  }
+]

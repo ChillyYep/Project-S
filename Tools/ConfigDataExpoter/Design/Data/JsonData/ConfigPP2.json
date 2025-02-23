@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "Jack",
+    "color": 1,
+    "nesttt": {
+      "id": 0,
+      "name": "ConfigPP2-0-nesttt-0-name-0"
+    },
+    "flags": [
+      true,
+      true,
+      false
+    ],
+    "foreignid": [
+      0
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Mack",
+    "color": 2,
+    "nesttt": {
+      "id": 0,
+      "name": "ConfigPP2-1-nesttt-0-name-0"
+    },
+    "flags": [
+      true
+    ],
+    "foreignid": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ruby",
+    "color": 3,
+    "nesttt": {
+      "id": 0,
+      "name": "ConfigPP2-2-nesttt-0-name-0"
+    },
+    "flags": [
+      false
+    ],
+    "foreignid": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hola",
+    "color": 1,
+    "nesttt": {
+      "id": 0,
+      "name": "ConfigPP2-3-nesttt-0-name-0"
+    },
+    "flags": [
+      true,
+      false
+    ],
+    "foreignid": [
+      1,
+      2
+    ]
+  }
+]

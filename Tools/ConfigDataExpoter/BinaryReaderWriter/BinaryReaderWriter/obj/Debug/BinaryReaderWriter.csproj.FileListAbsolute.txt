@@ -1,0 +1,20 @@
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.dll
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.pdb
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csprojAssemblyReference.cache
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.dll
+J:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.dll
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.pdb
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.pdb
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.AssemblyReference.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.dll
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\BinaryReaderWriter.pdb
+E:\unity\Project S\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.AssemblyReference.cache
+E:\unity\Project S\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+E:\unity\Project S\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.dll
+E:\unity\Project S\Tools\ConfigDataExpoter\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb

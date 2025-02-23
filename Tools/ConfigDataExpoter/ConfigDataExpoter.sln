@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigDataExpoter", "ConfigDataExpoter\ConfigDataExpoter.csproj", "{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1924433A-12AC-4810-8D82-73803981892E} = {1924433A-12AC-4810-8D82-73803981892E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReaderWriter", "BinaryReaderWriter\BinaryReaderWriter\BinaryReaderWriter.csproj", "{1924433A-12AC-4810-8D82-73803981892E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigDataBasic", "ConfigDataBasic\ConfigDataBasic.csproj", "{C6FCDF21-8982-43D2-ACCF-235AA64098E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BinaryReaderWriter|Any CPU = BinaryReaderWriter|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.BinaryReaderWriter|Any CPU.ActiveCfg = Debug|Any CPU
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.BinaryReaderWriter|Any CPU.Build.0 = Debug|Any CPU
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954B26EA-B0C4-446A-85A0-8B816A9B0E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.BinaryReaderWriter|Any CPU.ActiveCfg = Debug|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.BinaryReaderWriter|Any CPU.Build.0 = Debug|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1924433A-12AC-4810-8D82-73803981892E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.BinaryReaderWriter|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.BinaryReaderWriter|Any CPU.Build.0 = Release|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FCDF21-8982-43D2-ACCF-235AA64098E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB0FC2F-190A-4819-8059-90121EAAE82B}
+	EndGlobalSection
+EndGlobal

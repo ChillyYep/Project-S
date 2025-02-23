@@ -1,0 +1,21 @@
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.dll
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.pdb
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.CoreCompileInputs.cache
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.CopyComplete
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.dll
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.pdb
+J:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csprojAssemblyReference.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.AssemblyReference.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.CoreCompileInputs.cache
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.pdb
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.dll
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.pdb
+E:\unity\UISystem\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDa.09CC8F06.Up2Date
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.dll
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataExpoter\CopyFromDirectory\ConfigDataBasic.pdb
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.AssemblyReference.cache
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.csproj.CoreCompileInputs.cache
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDa.09CC8F06.Up2Date
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.dll
+E:\unity\Project S\Tools\ConfigDataExpoter\ConfigDataBasic\obj\Debug\ConfigDataBasic.pdb
